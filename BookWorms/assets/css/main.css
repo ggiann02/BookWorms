@@ -2320,6 +2320,7 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 30%;
+            /* height: 20%; */
             margin-left: auto;
             margin-right: auto;
 		}
@@ -2649,6 +2650,7 @@ input, select, textarea {
 		.mini-post .image {
 			overflow: hidden;
 			width: 100%;
+            height: 50%;
 		}
 
 			.mini-post .image img {
@@ -2657,6 +2659,7 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.2s ease-out;
 				transition: transform 0.2s ease-out;
 				width: 100%;
+                /* height: 20%; */
 			}
 
 			.mini-post .image:hover img {
