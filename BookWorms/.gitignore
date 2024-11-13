@@ -1,2 +1,5 @@
 # Automatically ignoring Mac file on folder attributes
 .DS_Store
+
+# ignore the workspace file
+# .BookWorms.code-workspace
